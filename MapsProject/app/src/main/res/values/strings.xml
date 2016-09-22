@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MAPS</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="getLoc">Get Location</string>
+    <string name="search_hint">Search Maps</string>
+    <string name="app_label">Map</string>
+    <string name="goTxt">Track</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="latlng">LatLng</string>
+    <string name="street">street</string>
+    <string name="distance">Distance</string>
+    <string name="stop">Stop</string>
+    <string name="sync">Sync</string>
+    <string name="search">Search</string>
+    <string name="search_a_location">Search a location</string>
+    <string name="button">Button</string>
+</resources>
